@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd4461fc-4368-476d-b5f5-b1cbd280fc1a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/(overview)/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/(overview)/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/not-found.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dashboard/customers/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/customers/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dashboard/invoices/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/invoices/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dashboard/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dashboard/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/dashboard/cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/dashboard/cards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/dashboard/sidenav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/dashboard/sidenav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/buttons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/buttons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/pagination.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/login-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/login-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/skeletons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/skeletons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/opengraph-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/opengraph-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/seed.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/seed.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ZCsfx1dH6LD0ZFpUFHQif9JO1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\Project\\next-learn\\dashboard\\starter-example\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\next-learn\dashboard\starter-example\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="NodeJSConfigurationType" />
+        <option value="js.build_tools.npm" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bd4461fc-4368-476d-b5f5-b1cbd280fc1a" name="更改" comment="" />
+      <created>1701937503309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701937503309</updated>
+      <workItem from="1701937507223" duration="31501000" />
+      <workItem from="1702344329546" duration="597000" />
+      <workItem from="1702345887070" duration="44805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/ui/login-form.tsx</url>
+          <line>24</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="js.build_tools.npm">
+        <watch expression="rawFormData.amount" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
